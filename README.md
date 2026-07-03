@@ -179,9 +179,9 @@ Predicted outputs:
 - ☁ One-click deployment
 ---
 
-# 🌐 Live Demo
+## 🌐 Live Demo
 
-Coming Soon (Vercel)
+🔗 https://energy-weather-analytics-am4r8yaom.vercel.app
 
 ---
 
